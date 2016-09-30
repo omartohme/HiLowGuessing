@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HiLowGuessing</string>
+    <string name="action_about">About</string>
+    <string name="author">Omar Tohme (tohm0011)</string>
+</resources>
