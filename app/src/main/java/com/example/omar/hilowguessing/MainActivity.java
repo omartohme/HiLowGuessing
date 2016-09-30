@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                 String myvalue= numberField.getText().toString();
                 Log.i("TAG",myvalue);
                 if ( myvalue.isEmpty() ) {
-                    numberField.setError( "Enter Your Username" );
+                    numberField.setError( "Please put a number!" );
                     numberField.requestFocus();
                     return;
                 }
